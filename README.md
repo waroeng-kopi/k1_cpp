@@ -1,3 +1,3 @@
 # kuliah_cpp_1
 
-ini adalah repositori kumpulan program yang saya buat sebagai penunjang keberlangsungan kuliah saya
+Here, I archive my assignments and my campus repository module.
